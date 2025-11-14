@@ -1,0 +1,9 @@
+{
+  "name": "node-domexception",
+  "version": "1.0.0",
+  "description": "Local shim that re-exports the platform DOMException (avoids deprecated registry package)",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "license": "MIT",
+  "author": "local-shim"
+}
